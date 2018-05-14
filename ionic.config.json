@@ -1,0 +1,8 @@
+{
+  "name": "pruebaoier",
+  "app_id": "82964b8f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
